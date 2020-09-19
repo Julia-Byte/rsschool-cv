@@ -7,7 +7,7 @@ I strive to develop my skills and grow, always learning something new. That’s 
 Rerecently, I decided to leave office job and moved to a freelance. I am open for new, interesting projects and tasks. \
 As person, I am extremely reliable, sociable and open minded. I have an extensive experience in business analysis and logistic management. 
 ### Skills: 
-**Languages**: JS, HTML5, CSS. \
+**Languages**: JavaScript, HTML5, CSS. \
 Creation of a modern presentations, landing page.
 ### Code examples: later
 ### Work experience:
