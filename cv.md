@@ -12,7 +12,8 @@ Creation of a modern presentations, landing page.
 ### Code examples: later
 ### Work experience:
 Business analysis, management support for the company’s shareholder, project evaluation, reporting, conducting business negotiations, performing a large volume of issues in a multitasking mode. \
-I am able to work in a team, quickly navigate and find the most comfortable solution for the task. Effectively work with a big volume of data. I easily find a common language with  people and always maintain a positive attitude.
+I am able to work in a team, quickly navigate and find the most comfortable solution for the task. 
+Effectively work with a big volume of data. I easily find a common language with  people and always maintain a positive attitude.
 ### Education:
 Penza State Pedagogical University \
 The faculty - Finance and credit, the speciality - economist, graduated in 2009 
