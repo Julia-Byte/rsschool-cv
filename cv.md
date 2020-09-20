@@ -20,4 +20,3 @@ The faculty - Finance and credit, the speciality - economist, graduated in 2009
 ### Languages:
 English – b2. I travel a lot and communicate with a native speakers. \
 Also used the language to participate in a negotiations with a foreign partners at my previous job.
-
